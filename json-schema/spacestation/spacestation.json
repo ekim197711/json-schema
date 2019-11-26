@@ -1,0 +1,17 @@
+{
+  "name": "test 1234",
+  "active": false,
+  "plants": [
+    {
+      "leafs": 5,
+      "plantname": "green slimy plant",
+      "poisonous": false
+    },
+    {
+      "poisonous": true,
+      "plantname": "Small yellow plant",
+      "leafs": 1234
+    }
+  ],
+  "population": 1000
+}
